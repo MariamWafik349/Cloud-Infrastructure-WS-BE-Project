@@ -1,4 +1,5 @@
 ![AWSTERRAFORMpng](https://github.com/user-attachments/assets/8eb1107d-c41c-4d24-b735-2c09fcccca06)
+
 AWS Multi-Tier Infrastructure with Terraform
 This project showcases a scalable and secure AWS architecture, designed using Terraform. It incorporates modern cloud practices like multi-tier deployment, automated resource management, and secure instance access using AWS Systems Manager (SSM). The design emphasizes high availability, efficient traffic distribution, and robust security without the need for traditional SSH-based connections.
 
